@@ -1,7 +1,7 @@
 import streamlit as st
-import sympy as sp
 import numpy as np
 import matplotlib.pyplot as plt
+import sympy as sp
 
 def main():
     st.set_page_config(page_title="Calculadora de Derivadas", layout="wide")
